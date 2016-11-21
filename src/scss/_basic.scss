@@ -77,3 +77,20 @@ footer.page-footer {
 main .col {
   height: 85vh;
 }
+.messages{
+  overflow: overlay;
+  height: 79%;
+}
+
+.page-footer{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+
+}
+body > main > div > div.col.s3.yellow > ul{
+  margin-top: 0px;
+  overflow: overlay;
+  height: 82vh;
+}
