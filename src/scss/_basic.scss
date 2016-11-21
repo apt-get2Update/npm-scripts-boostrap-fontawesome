@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   display: flex;
   min-height: 100vh;
@@ -71,8 +72,28 @@ footer.page-footer {
   z-index: 10;
   margin-top: 0px;
   padding-top: 0px;
-}
+=======
+.row .col.s3 {
 
+    display: list-item;
+}
+.row .col.offset-s11 {
+        margin-top: -64px;
+>>>>>>> 434f86b0d157437ee693889231c182ad26e25d77
+}
+.side-nav.fixed {
+
+    margin-top: 64px;
+    width: 64px;
+        z-index:0;
+        height: 83%;
+  }
+  main {
+    flex: 1 0 auto;
+    height: $navbar-height*8.5;
+
+
+<<<<<<< HEAD
 
 main .col {
   height: 85vh;
@@ -94,3 +115,10 @@ body > main > div > div.col.s3.yellow > ul{
   overflow: overlay;
   height: 82vh;
 }
+=======
+}
+  footer.page-footer {
+      margin-top: 0px;
+      padding-top: 0px;
+  }
+>>>>>>> 434f86b0d157437ee693889231c182ad26e25d77
